@@ -1,0 +1,70 @@
+/***********************************************
+Top bar color 
+***********************************************/
+
+html {
+	border-top: 20px solid #5F0202;
+}
+
+
+
+/***********************************************
+Body styling 
+***********************************************/
+
+body {
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 50px 20px;
+	font-size: 1.3em;
+	line-height: 1.6em;
+  font-family: 'Open Sans', sans-serif;
+	color: #aaa;
+	font-weight: 300;
+	background: #9A0E0E;
+}
+
+
+
+/***********************************************
+Image styling 
+***********************************************/
+
+img {
+	
+	border-radius: 100%;
+	max-width: 300px;
+
+}
+
+
+
+/***********************************************
+Headline styling 
+***********************************************/
+h1 {
+	font-size: 1.5em;
+	line-height: .5em;
+	color: white;
+}
+
+h2 {
+	font-size: 1em;
+	line-height: 20px;
+	font-style: oblique;
+	color: #aaa;
+
+}
+
+h3 {
+	font-size: .875em;
+	line-height: 20px;
+	font-weight: normal;
+	color: #999;
+}
+
+h4 {
+	margin-top: 60px;
+	font-weight: 500;
+  color: white;
+}
